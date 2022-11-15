@@ -28,4 +28,15 @@ Here are some ideas to get you started:
 #### IDEs
 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+  
+  <p align="center">
+<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=F05032&labelColor=ffffff" alt="git"></a>
+<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=black&labelColor=ffffff" alt="github"></a>
+
+</p><br>
+
+<p align="center">
+<a href="https://github.com/priyanshumay">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshumay&show_icons=true&title_color=fff&icon_color=79ff97&text_color=fefefe&bg_color=151515" alt="Statistics"/>
+</a></p>
 
